@@ -730,6 +730,19 @@ h4 {
     color: #333333!important;
 }
 
+.quote {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.quote-autor {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+
+
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
@@ -760,6 +773,16 @@ h4 {
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
+}
+
+.center {
+    display: block;
+    text-align: center;
+}
+
+.img-responsive {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .bgc-white {
@@ -822,7 +845,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
