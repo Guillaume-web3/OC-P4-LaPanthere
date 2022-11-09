@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -741,7 +741,9 @@ h4 {
     font-weight: 200;
 }
 
-
+.annuaire {
+    height: 24px ;
+}
 
 .icons {
     margin-bottom: 14px;
@@ -841,11 +843,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-panthere-resized.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("img/image-de-presentation-resized.jpg");
 }
 
 @media (max-width: 1024px) {
